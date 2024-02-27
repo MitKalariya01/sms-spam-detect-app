@@ -17,21 +17,18 @@ The dataset consists of SMS messages labeled as either spam or ham. Each message
    - 🐼 Pandas: For data manipulation and analysis.
    - 📊 Matplotlib: For creating static plots and visualizations.
    - 📈 Seaborn: For creating more advanced visualizations.
-   - 📊 Plotly: For interactive visualizations.
-
+     
 3. Text Preprocessing:
    - 📜 NLTK (Natural Language Toolkit): For text preprocessing tasks such as tokenization, stemming, and lemmatization.
    - 📊 Scikit-learn: For text vectorization techniques like TF-IDF (Term Frequency-Inverse Document Frequency).
 
 4. Model Building:
    - 🧠 Scikit-learn: For implementing machine learning algorithms such as Naive Bayes, SVM, Logistic Regression, etc.
-   - 🛠️ TensorFlow or PyTorch: For building deep learning models if needed.
-
+   
 5. Evaluation:
    - 🧾 Scikit-learn: For evaluating model performance using metrics like accuracy, precision, recall, F1-score, etc.
 
 6. Improvement:
-   - 🔍 Hyperopt: For hyperparameter optimization to improve model performance.
    - 🛠️ Feature Engineering: Utilize techniques such as feature scaling, feature selection, and feature creation to enhance model performance.
 
 █ Additional Technologies:
